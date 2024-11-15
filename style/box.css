@@ -1,0 +1,38 @@
+@import url(fonts.css);
+
+.box {
+    background: url(../image/image\ 51.png) no-repeat center/cover;
+    padding-top: 141px;
+    padding-left: 50px;
+    padding-bottom: 207px;
+}
+
+.box__title {
+    background: linear-gradient(158.93deg, rgb(255, 206, 169), rgba(255, 206, 169, 0));
+    -webkit-background-clip:
+        text;
+    -webkit-text-fill-color:
+        transparent;
+    background-clip:
+        text;
+    font-family: 'Raleway-Medium';
+    font-size: 80px;
+    line-height: 66px;
+    max-width: 689px;
+    width: 100%;
+    padding-bottom: 106px;
+}
+
+
+.box__text {
+    color: rgb(255, 206, 169);
+    font-family: 'GolosText-SemiBold';
+    font-size: 14px;
+    line-height: 22px;
+    max-width: 390px;
+    display: flex;
+    width: 100%;
+}
+
+
+

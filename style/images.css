@@ -1,0 +1,20 @@
+@import url(fonts.css);
+
+.image {
+    height: 665px;
+    width: 100%;
+    flex-grow: 1;
+    background: rgb(0, 8, 12);
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.image__content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image__photo {
+    height: 500px;
+}

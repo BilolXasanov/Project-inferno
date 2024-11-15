@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'GolosText-Medium';
+    src: url(../fonts/GolosText-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'GolosText-Regular';
+    src: url(../fonts/GolosText-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'GolosText-SemiBold';
+    src: url(../fonts/GolosText-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    src: url(../fonts/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-ExtraLight';
+    src: url(../fonts/Raleway-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url(../fonts/Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url(../fonts/Raleway-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url(../fonts/Raleway-SemiBold.ttf);
+}

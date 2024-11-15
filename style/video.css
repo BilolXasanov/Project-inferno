@@ -1,0 +1,11 @@
+@import url(fonts.css);
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+.video__photo {
+    background: rgb(0, 8, 12);
+    flex-grow: 1;
+}
